@@ -1,38 +1,38 @@
-127.0.0.1 cloud.mikrotik.com
-127.0.0.1 graph.facebook.com
-127.0.0.1 localhost
-127.0.0.1 google.com
-127.0.0.1 i.instagram.com
-127.0.0.1 graph.instagram.com
-127.0.0.1 youtubei.googleapis.com
-127.0.0.1 mqtt-mini.facebook.com
-127.0.0.1 accounts.google.com
-127.0.0.1 play.googleapis.com
-127.0.0.1 i.ytimg.com
-127.0.0.1 optimizationguide-pa.googleapis.com
-127.0.0.1 redirector.googlevideo.com
-127.0.0.1 clients3.google.com
-127.0.0.1 connectivitycheck.gstatic.com
-127.0.0.1 b-graph.facebook.com
-127.0.0.1 play-fe.googleapis.com
-127.0.0.1 yt3.ggpht.com
-127.0.0.1 web.facebook.com
-127.0.0.1 mtalk.google.com
-127.0.0.1 clients4.google.com
-127.0.0.1 b-api.facebook.com
-127.0.0.1 api.facebook.com
-127.0.0.1 android.googleapis.com
-127.0.0.1 android.clients.google.com
-127.0.0.1 update.googleapis.com
-127.0.0.1 www.googleapis.com
-127.0.0.1 s.youtube.com
-127.0.0.1 android.apis.google.com
-127.0.0.1 whoami.akamai.net
-127.0.0.1 userlocation.googleapis.com
-127.0.0.1 edge-mqtt.facebook.com
-127.0.0.1 geller-pa.googleapis.com
-127.0.0.1 android-context-data.googleapis.com
-127.0.0.1 clientservices.googleapis.com
-127.0.0.1 firebaseremoteconfig.googleapis.com
-127.0.0.1 notifications-pa.googleapis.com
-127.0.0.1 safebrowsing.googleapis.com
+||cloud.mikrotik.com^
+||graph.facebook.com^
+||localhost^
+||google.com^
+||i.instagram.com^
+||graph.instagram.com^
+||youtubei.googleapis.com^
+||mqtt-mini.facebook.com^
+||accounts.google.com^
+||play.googleapis.com^
+||i.ytimg.com^
+||optimizationguide-pa.googleapis.com^
+||redirector.googlevideo.com^
+||clients3.google.com^
+||connectivitycheck.gstatic.com^
+||b-graph.facebook.com^
+||play-fe.googleapis.com^
+||yt3.ggpht.com^
+||web.facebook.com^
+||mtalk.google.com^
+||clients4.google.com^
+||b-api.facebook.com^
+||api.facebook.com^
+||android.googleapis.com^
+||android.clients.google.com^
+||update.googleapis.com^
+||www.googleapis.com^
+||s.youtube.com^
+||android.apis.google.com^
+||whoami.akamai.net^
+||userlocation.googleapis.com^
+||edge-mqtt.facebook.com^
+||geller-pa.googleapis.com^
+||android-context-data.googleapis.com^
+||clientservices.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||notifications-pa.googleapis.com^
+||safebrowsing.googleapis.com^
